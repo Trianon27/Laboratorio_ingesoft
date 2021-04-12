@@ -1,0 +1,25 @@
+.SignedUp{
+
+    background-color: var(--back-color);
+    height: 300px;
+    width: 300px;
+    background:rgb(155, 235, 155);
+    border-radius:   30px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid green;
+
+}
+
+.SignedUp__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../Components/Pictures/background.jpg);
+    background-color: #cccccc;
+    background-size: cover;
+
+}

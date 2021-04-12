@@ -1,0 +1,43 @@
+.Register{
+    background-color: var(--back-color);
+    height: 500px;
+    width: 300px;
+    background: white;
+    border-radius:   30px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid black;
+
+}
+
+input{
+    padding: 7px;
+    padding-left: 12px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    width: 90%;
+    font-size: 14px;
+}
+
+form{
+    width: 85%;
+}
+
+label{
+    padding-left: 10px;
+}
+
+.Register_container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../Components/Pictures/Background_reg.png);
+    background-color: #cccccc;
+    background-size: cover;
+
+
+}

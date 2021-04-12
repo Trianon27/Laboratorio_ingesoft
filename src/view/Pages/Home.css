@@ -1,0 +1,10 @@
+.Home{
+    min-height: 100vh;
+    background-image: url(../Components/Pictures/background.jpg);
+    background-color: #cccccc;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

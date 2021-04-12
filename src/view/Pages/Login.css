@@ -1,0 +1,16 @@
+
+.Login{
+    padding-bottom: 30px;
+    min-height: 300px;
+    max-height: 700px;
+    width: 300px;
+    background: white;
+    border-radius:   30px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid black;
+
+}
+
